@@ -13,6 +13,7 @@ Hi there! I'm **Faris**, a passionate developer and computer science student fro
 
 ### 🎮 **Games**
 - **[2048](https://github.com/GoodmanFaris/2048)**: A browser-based version of the popular game, created with HTML, CSS, and JavaScript.
+- **[Wack a Mole](https://github.com/GoodmanFaris/Wack-a-mole)**: A browser-based version of the wack a mole game(for PMF Sarajevo), created with HTML, CSS, and JavaScript.
 - #### 🎮**Itch.io games**
 - **[THE GAME](https://goodmanfaris.itch.io/the-game-made-by-faris-l)**: Game made in Unity using CSharp.
 - **[RunNGun](https://goodmanfaris.itch.io/runngun)**: Game made in Unity using CSharp.
