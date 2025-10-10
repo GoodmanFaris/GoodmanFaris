@@ -26,6 +26,13 @@ Hi there! I'm **Faris**, a passionate developer and computer science student fro
 
 ---
 
+## 📂 Other
+
+### 🤖 **Heart-Disease-Prediction**
+- **[Heart Disease](https://github.com/GoodmanFaris/Heart-Disease-Machine-Learning)**:  Comprehensive machine learning project for predicting heart disease. Includes data preprocessing, feature analysis, and model training using Random Forest, SVM, Linear Regression, MLP, and Keras neural networks, with fine-tuning and threshold optimization.
+
+---
+
 ## 🛠️ Skills & Technologies
 
 ### **Languages**:
