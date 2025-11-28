@@ -7,7 +7,7 @@ Hi there! I'm **Faris**, a passionate developer and computer science student fro
 ## 📂 Featured Projects
 
 ###  🌐 **Web Site**
-- **[Portfolio site](https://github.com/GoodmanFaris/Portfolio-site)**: My Portfolio website using only HTML and Css.
+- **[Portfolio site](https://github.com/GoodmanFaris/PortfolioWebsite)**: My Portfolio website using only HTML and Css.
 
 ### 🌐 **Web Applications**
 - **[HR-Management](https://github.com/GoodmanFaris/HR-Management)**: A human resources management system for recruitment and employee data management built with Node.js, PHP, and SQL.
