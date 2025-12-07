@@ -54,8 +54,8 @@ Hi there! I'm **Faris**, a passionate developer and computer science student fro
 ---
 
 ## 🎯 Current Goals
-- Deepen my understanding of **backend development** and explore frameworks like **NestJS**.
-- Learn more about **frontend frameworks** such as React and Vue.js.
+- Deepen my understanding of **Ansible and automatization**.
+- Learn more about **AI agents and Fine tuning**.
 - Contribute to open-source projects and collaborate with other developers.
 
 ---
@@ -67,19 +67,8 @@ Hi there! I'm **Faris**, a passionate developer and computer science student fro
 
 ---
 
-## 🏆 Achievements
-- Participated in cantonal mathematics competitions during high school.
-- Built multiple web applications and software projects.
-- Created a functional HR management system and deployed a news site in record time.
-
----
-
 ## 🤝 Let's Connect!
-- **Email**: [goodmanfaris@gmail.com](mailto:goodmanfaris@gmail.com)
+- **Email**: [goodmanfaris@gmail.com](mailto:flindov001@gmail.com)
 - **GitHub**: [github.com/GoodmanFaris](https://github.com/GoodmanFaris)
 
----
-
-### 🌟 Thank you for visiting my profile! 
-Feel free to explore my projects, leave a ⭐ if you like them, and reach out if you'd like to collaborate! 😊
 
