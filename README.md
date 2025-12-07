@@ -7,8 +7,8 @@ Hi there! I'm **Faris**, a passionate developer and computer science student fro
 ## 📂 Featured Projects
 
 ###  🌐 **Web Site**
-- **[Portfolio site](https://github.com/GoodmanFaris/PortfolioWebsite)**: My Portfolio website using only HTML and Css.
-- **[Live Model View](https://github.com/GoodmanFaris/livemodelviewdemov)**: 3D model view with face tracking for demonstration of Parlax effect, Concept idea.
+- **[Portfolio site](https://github.com/GoodmanFaris/PortfolioWebsite)**: My Portfolio website using only HTML and Css.([Deployed](https://farislindov.me))
+- **[Live Model View](https://github.com/GoodmanFaris/livemodelviewdemov)**: 3D model view with face tracking for demonstration of Parlax effect, Concept idea.([Deployed](https://livemodelview.space))
 
 ### 🌐 **Web Applications**
 - **[HR-Management](https://github.com/GoodmanFaris/HR-Management)**: A human resources management system for recruitment and employee data management built with Node.js, PHP, and SQL.
