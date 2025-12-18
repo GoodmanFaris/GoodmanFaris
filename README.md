@@ -32,6 +32,9 @@ Hi there! I'm **Faris**, a passionate developer and computer science student fro
 ### 🤖 **Heart-Disease-Prediction**
 - **[Heart Disease ML](https://github.com/GoodmanFaris/Heart-Disease-Machine-Learning)**:  Comprehensive machine learning project for predicting heart disease. Includes data preprocessing, feature analysis, and model training using Random Forest, SVM, Linear Regression, MLP, and Keras neural networks, with fine-tuning and threshold optimization.
 
+### 🤖 **Cat vs Dog Classification CNN**
+- **[CatVSDogCNN ML](https://github.com/GoodmanFaris/CatvsDogRecognition-CNN)**:  A deep learning project that uses Convolutional Neural Networks (CNNs) built with TensorFlow and Keras to classify images of cats and dogs.
+
 ---
 
 ## 🛠️ Skills & Technologies
