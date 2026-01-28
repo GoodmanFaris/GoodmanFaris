@@ -72,6 +72,5 @@ Hi there! I'm **Faris**, a passionate developer and computer science student fro
 
 ## 🤝 Let's Connect!
 - **Email**: [goodmanfaris@gmail.com](mailto:flindov001@gmail.com)
-- **GitHub**: [github.com/GoodmanFaris](https://github.com/GoodmanFaris)
 
 
