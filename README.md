@@ -7,6 +7,7 @@ Hi there! I'm **Faris**, a passionate developer and computer science student fro
 ## 📂 Featured Projects
 
 ###  🌐 **Web Site**
+- **[BudgetFlo](https://github.com/GoodmanFaris/personal-finance-tracker)**: Free Online Open-source Personal Finance Tracker. (live 21.02.2026)
 - **[Portfolio site](https://github.com/GoodmanFaris/PortfolioWebsite)**: My Portfolio website using only HTML and Css.([Deployed](https://farislindov.me))
 - **[Live Model View](https://github.com/GoodmanFaris/livemodelviewdemov)**: 3D model view with face tracking for demonstration of Parlax effect, Concept idea.([Deployed](https://livemodelview.space))
 
