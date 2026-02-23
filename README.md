@@ -42,32 +42,6 @@ Hi there! I'm **Faris**, a passionate developer and have a Math and Computer Sci
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### **Languages**:
-- **Proficient**: JavaScript, Python, C++, PHP, SQL
-- **Familiar**: Java, Bash
-
-### **Web Development**:
-- Frontend: HTML, CSS, EJS, Bootstrap
-- Backend: Node.js, Express.js, PHP
-
-### **Tools & Frameworks**:
-- Git, Visual Studio, VS Code, MySQL Workbench, MongoDB
-
-### **Other Skills**:
-- Problem-solving and algorithm design
-- Database management and optimization
-
----
-
-## 🎯 Current Goals
-- Deepen my understanding of **Ansible and automatization**.
-- Learn more about **AI agents and Fine tuning**.
-- Contribute to open-source projects and collaborate with other developers.
-
----
-
 ## 📖 Education
 - **Bachelor's Degree in Theoretical and Computational Mathematics**  
   Faculty of Natural Sciences and Mathematics, Sarajevo  
