@@ -45,7 +45,7 @@ Hi there! I'm **Faris**, a passionate developer and have a Math and Computer Sci
 ## 📖 Education
 - **Bachelor's Degree in Theoretical and Computational Mathematics**  
   Faculty of Natural Sciences and Mathematics, Sarajevo  
-  Focus: Mathematics, Computer Science, and Software Development
+  Focus: Mathematics, Computer Science, Software Development and ML/AI
 
 ---
 
