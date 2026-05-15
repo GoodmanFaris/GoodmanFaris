@@ -30,6 +30,8 @@ Hi there! I'm **Faris**, a passionate developer and have a Math and Computer Sci
 ### 💻 **Software Applications**
 - **[Visual-Studio-App-Faculty-Student](https://github.com/GoodmanFaris/Visual-Studio-App-Faculty-Student)**: A Visual Studio C++ application using MS Access for database management.
 
+- **[DebateAI](https://github.com/GoodmanFaris/DebateAI)**: AI-powered mobile application for communication, negotiation, and critical thinking training through interactive debate scenarios..
+
 ---
 
 ## 📂 Other
@@ -39,6 +41,9 @@ Hi there! I'm **Faris**, a passionate developer and have a Math and Computer Sci
 
 ### 🤖 **Cat vs Dog Classification CNN**
 - **[CatVSDogCNN ML](https://github.com/GoodmanFaris/CatvsDogRecognition-CNN)**:  A deep learning project that uses Convolutional Neural Networks (CNNs) built with TensorFlow and Keras to classify images of cats and dogs.
+
+### 🤖 **Traffic Analyzer**
+- **[Heart Disease ML](https://github.com/GoodmanFaris/Sumo-ETF)**:  This repository contains an offline pipeline that converts an intersection video into structured traffic demand and generates a SUMO-compatible flows.xml file.
 
 ---
 
