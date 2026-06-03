@@ -34,7 +34,7 @@ Hi there! I'm **Faris**, a passionate developer and have a Math and Computer Sci
 
 ---
 
-## 📂 Other
+## 📂 ML/AI
 
 ### 🤖 **Heart-Disease-Prediction**
 - **[Heart Disease ML](https://github.com/GoodmanFaris/Heart-Disease-Machine-Learning)**:  Comprehensive machine learning project for predicting heart disease. Includes data preprocessing, feature analysis, and model training using Random Forest, SVM, Linear Regression, MLP, and Keras neural networks, with fine-tuning and threshold optimization.
@@ -44,6 +44,9 @@ Hi there! I'm **Faris**, a passionate developer and have a Math and Computer Sci
 
 ### 🤖 **Traffic Analyzer**
 - **[Heart Disease ML](https://github.com/GoodmanFaris/Sumo-ETF)**:  This repository contains an offline pipeline that converts an intersection video into structured traffic demand and generates a SUMO-compatible flows.xml file.
+
+### 🤖 **Intel six class Classification CNN**
+- **[IntelSixClassCNN ML](https://github.com/GoodmanFaris/IntelSixClassCNN)**:  A deep learning project exploring how CNN architecture size reduction and post-training quantization affect model performance, using Intel Image Classification dataset with TensorFlow and Keras.
 
 ---
 
