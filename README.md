@@ -43,13 +43,16 @@ Hi there! I'm **Faris**, a passionate developer and have a Math and Computer Sci
 - **[CatVSDogCNN ML](https://github.com/GoodmanFaris/CatvsDogRecognition-CNN)**:  A deep learning project that uses Convolutional Neural Networks (CNNs) built with TensorFlow and Keras to classify images of cats and dogs.
 
 ### 🤖 **Traffic Analyzer**
-- **[Heart Disease ML](https://github.com/GoodmanFaris/Sumo-ETF)**:  This repository contains an offline pipeline that converts an intersection video into structured traffic demand and generates a SUMO-compatible flows.xml file.
+- **[Traffic Digital Twin](https://github.com/GoodmanFaris/Sumo-ETF)**:  This repository contains an offline pipeline that converts an intersection video into structured traffic demand and generates a SUMO-compatible flows.xml file.
 
 ### 🤖 **Intel six class Classification CNN**
 - **[IntelSixClassCNN ML](https://github.com/GoodmanFaris/IntelSixClassCNN)**:  A deep learning project exploring how CNN architecture size reduction and post-training quantization affect model performance, using Intel Image Classification dataset with TensorFlow and Keras.
 
 ### 🤖 **Email Phising Analyzer**
 - **[EmailPhissingAnalyzer ML](https://github.com/GoodmanFaris/PhisingAnalyzer)**:  A phishing email detection system using TF-IDF vectorization and Logistic Regression to classify emails as legitimate or malicious.
+
+### 🤖 **EPL Vision Demo**
+- **[EPL Computer Vision](https://github.com/GoodmanFaris/EPLFineTunedYoloDemo)**:  Fine-tuned YOLOv8 on 600 custom-labeled EPL match images to detect players, goalkeepers, referees, and the ball using Roboflow for annotation.
 
 ---
 
