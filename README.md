@@ -49,7 +49,7 @@ Hi there! I'm **Faris**, a passionate developer and have a Math and Computer Sci
 - **[IntelSixClassCNN ML](https://github.com/GoodmanFaris/IntelSixClassCNN)**:  A deep learning project exploring how CNN architecture size reduction and post-training quantization affect model performance, using Intel Image Classification dataset with TensorFlow and Keras.
 
 - ### 🤖 **Intel six class Classification CNN**
-- **[EmailPhissingAnalyzer ML]((https://github.com/GoodmanFaris/PhisingAnalyzer))**:  A phishing email detection system using TF-IDF vectorization and Logistic Regression to classify emails as legitimate or malicious.
+- **[EmailPhissingAnalyzer ML](https://github.com/GoodmanFaris/PhisingAnalyzer)**:  A phishing email detection system using TF-IDF vectorization and Logistic Regression to classify emails as legitimate or malicious.
 
 ---
 
